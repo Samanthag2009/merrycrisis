@@ -1,0 +1,63 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+.wrapper {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin-left: 525px
+
+}
+
+button {
+    
+  float: right;
+  margin-right: 700px;
+}
+
+
+
+
+
+
+
+body {
+  font-family: sans-serif;
+  background-color: #f9fbfd;
+}
+
+.antelope {
+margin-bottom: -700px;
+
+}
+
+.book {
+margin-bottom: -300px;
+  margin-left: 840px
+}
+
+.lantern {
+margin-left: 100px;
+margin-bottom: 250px;
+
+}
+#images {
+    display: none;
+}
+
+#show {
+    height: 50px;
+  width: 20px;
+ color: white;
+  border: white;
+  background: white;
+  margin-top: 600px;
+}
